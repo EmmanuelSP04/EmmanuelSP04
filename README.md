@@ -1,9 +1,9 @@
 <h1 align="center">Hola, Emmanuel Sosa</h1>
-<h3 align="center">Un apasionado desarrollador de México</h3>
+<h3 align="center">sopro04</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://discord.gg/emmanuel2009sp@gmail.com" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emmanuel2009sp@gmail.com" height="30" width="40" /></a>
+<a href="https://discord.gg/emmanuel2009sp@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" emmanuel2009sp@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
